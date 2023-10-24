@@ -16,7 +16,7 @@ print("Tengo el numero:", numero)
 numero_a_cadena = str(numero) #Pasamos la varible que queremos convertir
 print(type(numero_a_cadena))
 
-#Ya que Python es debilmente tipado, tambien se puede cambiar el tipo asi:
+#Ya que Python tiene un tipado dinamico, tambien se puede cambiar el tipo asi:
 numero = "Jeison" #aunque numero era de tipo int, ahora la he cambiado a tipo str
 
 #podemos saber la longitud con la siguiente funcion del sistema
